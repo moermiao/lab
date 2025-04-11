@@ -1,5 +1,1 @@
- HEAD
 Sergej Alekseevic
-
-Sergej Alekseev
- newdev
